@@ -1,0 +1,2 @@
+publish = "main"
+command = "npm run build"
